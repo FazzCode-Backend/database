@@ -1,14 +1,28 @@
 {
   "user": {
-    "nama": "Faiz",
-    "avatar": "https://i.pravatar.cc/150?u=Faiz"
+    "nama": "Sheep User",
+    "avatar": "https://api.dicebear.com/7.x/bottts-neutral/svg?seed=Sheep"
   },
-  "totalSaldo": 50000,
+  "tujuan": [
+    {
+      "id": 1705234567890,
+      "nama": "Tabungan Utama",
+      "saldo": 0,
+      "target": 10000000
+    },
+    {
+      "id": 1705234567891,
+      "nama": "Dana Darurat",
+      "saldo": 0,
+      "target": 5000000
+    }
+  ],
   "riwayat": [
     {
-      "tanggal": "14/1/2026, 18.54.34",
-      "jumlah": 50000,
-      "keterangan": "uang tabungan"
+      "tanggal": "14/01/2026, 19.00.00",
+      "jumlah": 0,
+      "keterangan": "Database Inisialisasi",
+      "tujuan": "Tabungan Utama"
     }
   ]
 }
