@@ -3,6 +3,12 @@
     "nama": "Faiz",
     "avatar": "https://i.pravatar.cc/150?u=Faiz"
   },
-  "totalSaldo": 0,
-  "riwayat": []
+  "totalSaldo": 50000,
+  "riwayat": [
+    {
+      "tanggal": "14/1/2026, 18.54.34",
+      "jumlah": 50000,
+      "keterangan": "uang tabungan"
+    }
+  ]
 }
