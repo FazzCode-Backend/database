@@ -1,10 +1,8 @@
 {
-  "totalSaldo": 50000,
-  "riwayat": [
-    {
-      "tanggal": "14/1/2026, 18.48.47",
-      "jumlah": 50000,
-      "keterangan": "50000"
-    }
-  ]
+  "user": {
+    "nama": "",
+    "avatar": ""
+  },
+  "totalSaldo": 0,
+  "riwayat": []
 }
