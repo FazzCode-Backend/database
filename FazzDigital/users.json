@@ -1,1 +1,16 @@
-[]
+{
+  "users": [
+    {
+      "id": 6102785057,
+      "username": "zyhsvorsty",
+      "joined": 1771405861443
+    }
+  ],
+  "stats": [
+    {
+      "id": 6102785057,
+      "username": "zyhsvorsty",
+      "timestamp": 1771405861443
+    }
+  ]
+}
