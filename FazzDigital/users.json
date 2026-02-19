@@ -1,4 +1,18 @@
 {
-  "users": [],
-  "stats": []
+  "users": [
+    {
+      "id": 8243394905,
+      "username": "fazzcode",
+      "joined": 1771471272356,
+      "hasUsedTrial": false
+    }
+  ],
+  "stats": [
+    {
+      "id": 8243394905,
+      "username": "fazzcode",
+      "isTrial": false,
+      "timestamp": 1771471272356
+    }
+  ]
 }
